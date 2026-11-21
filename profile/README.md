@@ -1,4 +1,6 @@
-<img width="1144" height="648" alt="logo-dark" src="https://github.com/user-attachments/assets/19cff3b4-280f-49d7-9b71-2558c5cbd446" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/19cff3b4-280f-49d7-9b71-2558c5cbd446" alt="logo-dark" width="450" />
+</p>
 
 **A handwriting notebook for the jailbroken Kindle Scribe.** Lined, dotted, graph and Cornell
 paper, sheet music and guitar or bass tab you can mix and stack yourself, nine pens tuned to the
